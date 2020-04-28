@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/W6LCylqJhKX9QrX8gw/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/efJGqBhCj1VpeWPub4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -36,7 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 At some point my emulator would have the app keep stopping and i'm not sure why. I followed the videos exactly but somehow the app would
-not run prperly anymore
+not run prperly anymore.
+Somehow started running but now the login screen's acting like my parse isnt there and wont login
 
 ## Open-source libraries used
 
