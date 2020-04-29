@@ -46,7 +46,7 @@ Somehow started running but now the login screen's acting like my parse isnt the
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Terence Bazzell]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
